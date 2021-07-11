@@ -9,7 +9,7 @@
 ```javascript
 const mani_kilaru = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "C#", "Python", "Java"],
+    code: ["Javascript", "C#", "Python", "Java", ".Net Core"],
     askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
         backEnd: {
@@ -18,9 +18,6 @@ const mani_kilaru = {
         frontEnd: {
             js: ["express","Asp.Net"],
             css: ["materialize", "bootstrap"]
-        },
-        mobileApp: {
-            native: ["Android Development", "Ios Development"]
         },
         devOps: ["AWS", "Docker🐳", "Nginx"],
         databases: ["mongo", "SQL Server", "MySql", "sqlite", "Cassandra"],
