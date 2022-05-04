@@ -1,4 +1,4 @@
-### Hi there, I'm [Manikantesh Kilaru!](https://manikantesh.github.io) 👋 
+### Hi there, I'm [Manikantesh Kilaru!](https://manikantesh.github.io/devprofile/) 👋 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/kilaru51?label=Follow)](https://twitter.com/intent/follow?screen_name=kilaru51)
 [![Linkedin: mani](https://img.shields.io/badge/-mani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manikantesh-kilaru-65b06b18a/)](https://www.linkedin.com/in/manikantesh-kilaru-65b06b18a/)
