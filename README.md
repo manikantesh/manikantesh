@@ -9,7 +9,7 @@
 ```javascript
 const mani_kilaru = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "C#", "Python", "Java", ".Net Core"],
+    code: ["Javascript", "C#", "Python", "Java", ".Net Core", "NodeJs", "ReactJs", "Flutter"],
     askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
         backEnd: {
@@ -19,9 +19,9 @@ const mani_kilaru = {
             js: ["express","Asp.Net"],
             css: ["materialize", "bootstrap"]
         },
-        devOps: ["AWS", "Docker🐳", "Nginx"],
-        databases: ["mongo", "SQL Server", "MySql", "sqlite", "Cassandra"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "Heroku"]
+        devOps: ["Azure","AWS", "Docker🐳", "Nginx","Jenkins","Ansible"],
+        databases: ["mongo", "SQL Server", "MySql", "sqlite", "Cassandra","CosmosDB"],
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "Heroku","Databricks"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     funFact: "There are two ways to write error-free programs; only the third one works"
